@@ -42,9 +42,7 @@ Aqui estão alguns dos meus repositórios públicos mais relevantes, com foco em
 ## 📬 Onde me encontrar
 
 - LinkedIn: [linkedin.com/in/jonathan-isecke](https://www.linkedin.com/in/jonathan-isecke)  
-- Portfólio / Site: (a ser implementado)  
-- E-mail: (opcional — se quiser incluir)  
-
+- Portfólio / Site: (a ser implementado)
 ---
 
 > “Automatizar rotinas e transformar dados em decisões reais — esse é o meu propósito.”  
